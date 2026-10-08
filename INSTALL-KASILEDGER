@@ -1,0 +1,14 @@
+KasiLedger app
+
+This package is an installable, offline-friendly web app.
+
+How to install it on an Android phone:
+1. Put these files on a secure website (HTTPS). A normal website link is enough.
+2. Open that link in Chrome on the phone.
+3. Tap Chrome's three-dot menu.
+4. Tap "Install app" or "Add to Home screen".
+5. Open KasiLedger from the new icon on the home screen.
+
+After its first successful load, KasiLedger can open offline. Your shop records stay on that device. Use Settings to make a readable export and a password-protected backup before changing phones or clearing browser data.
+
+Important: This package is not an Android Play Store APK. It is a privacy-first installable web app, so it does not need a bank connection, account, or cloud server.
